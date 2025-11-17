@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/img/react.png">
+<img src="/img/react.png" width="128" height="128">
 </div>
 
 # Repositorio para Aprender React
